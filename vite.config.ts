@@ -5,5 +5,5 @@ export default defineConfig({
     plugins: [
         tailwindcss(),
     ],
-    base: "/Simple-World-Clock/"
+    base: "/World-Clock/"
 })
